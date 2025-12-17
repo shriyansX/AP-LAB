@@ -10,10 +10,16 @@ Hands-on, Jupyter-first practice for Python fundamentals: I/O, arithmetic, swapp
 - Windows-friendly instructions and paths.
 
 ## What's Inside 📂
-- `AP-LAB1.ipynb` — lab notebook (run top-to-bottom or cell-by-cell).
+- `AP-LAB-1.ipynb` — Basic I/O, arithmetic operators, swapping, and conditionals.
+- `AP-LAB-2.ipynb` — String operations, pattern printing.
+- `AP-LAB-3.ipynb` — Functions, recursion, lists, dictionaries, and OOP basics.
 
 ## Lab Exercise Overview
-- **AP-LAB1**: `print()` greeting; integer prompts; arithmetic operators (add, subtract, multiply, float divide, modulus, floor divide, exponent); swap two numbers with a temp variable; even/odd check with a simple `if/else`.
+- **AP-LAB-1**: `print()` greeting; integer prompts; arithmetic operators (add, subtract, multiply, float divide, modulus, floor divide, exponent); swap two numbers with a temp variable; even/odd check with a simple `if/else`.
+
+- **AP-LAB-2**: String reversal using loops; count vowels, consonants, digits, and spaces in a string; palindrome checker; star patterns (ascending and descending triangles).
+
+- **AP-LAB-3**: Factorial using loops; Fibonacci sequence generator; find largest element in a list; remove duplicates from a list; find second-largest element; character frequency counter using dictionaries; find key with maximum value in a dictionary; factorial function (iterative and recursive); basic OOP with `Student` class (name, roll number, branch).
 
 ## Quickstart (Windows) ⚡
 1) **Requirements**: Python 3.11+ (and optionally Git).
